@@ -6,7 +6,7 @@ $ npm install
 
 $ npm start
 
-2. Start client React: At folder .../Final---Internet-Banking-Project -> Open cmd
+2. Start client React: At folder .../Final---Internet-Banking-Project -> Open another cmd
 
 $ cd client
 
